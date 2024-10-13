@@ -1,0 +1,4 @@
+OUTPUT:-
+
+Symptom Dictionary:
+{'Symptom 1': ['Fever: Mild, Low, High'], 'Symptom 2': ['Cough: Mild, Low'], 'Symptom 3': ['Cold: Mild, Low, High'], 'Other Symptoms': ['Body Ache', 'Shivering', 'Head Ache', 'Nausia', 'Sickness', 'Vertigo', 'Head Ache', 'Nausia', 'Sickness', 'Vertigo, Nausia']}
